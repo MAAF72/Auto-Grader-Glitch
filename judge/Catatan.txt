@@ -1,0 +1,7 @@
+lower case(nama folder, language)
+moss
+variable iterator ganti jangan i
+nama fungsi jadiin camel case, ex : deleteFile
+kurangi pengunaan else, caranya return duluan 
+gunakan single quote
+nama variable sesuaikan dengan kaidah bahasa inggris, file_input itu salah, yg benar input_file
